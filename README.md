@@ -68,4 +68,4 @@ To install this project into your local machine run this command
 5. If you decide to contribute, click on the 'Pay' button by filling required data and you will be redirected to a secure payment page powered by Razorpay.
 6. After the transaction is successful, you will receive a confirmation of your contribution, and the funds will be directly transferred to the developer's Razorpay account.
 
-Thank you for your interest in Get Me A Chai! We hope this platform helps you successfully fund your projects and support developers in bringing their ideas to life.
+Thank you for your interest in Fund Spark! We hope this platform helps you successfully fund your projects and support developers in bringing their ideas to life.
