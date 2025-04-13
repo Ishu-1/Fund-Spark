@@ -1,9 +1,7 @@
 # Fund Spark
 
-[https://fund-me-chai.vercel.app](get-me-a-chai)
-
 ## Project Description
-Get Me A Chai is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
+Fund Spark is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
 
 On the dashboard, developers or project creators can provide the project name, description, and link, allowing potential fund givers to learn about the project and decide whether to contribute. The refund policy is entirely at the discretion of the project developers.
 ## Tech Stack
@@ -24,7 +22,7 @@ On the dashboard, developers or project creators can provide the project name, d
 To run this project, you will need to add the following environment variables to your .env.local file
 ```
 NEXT_PUBLIC_URL=http://localhost:3000
-MONGODB_URI="mongodb://localhost:27017/get-me-a-chai"
+MONGODB_URI="mongodb://localhost:27017/fund-spark"
 NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET=<a secret>
 GITHUB_ID=<your github id>
@@ -35,10 +33,6 @@ GOOGLE_SECRET=<your google secret>
 ## Installation
 To install this project into your local machine run this command
 
-Clone the repository:
-   ```bash
-   git clone https://github.com/Advanced-Boy-Shreyash/Get-Me-A-Chai.git
-```
 ## Run Locally
 - Go into the folder you have installed this project and proceed with following procedure
 
