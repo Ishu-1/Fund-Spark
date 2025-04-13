@@ -1,4 +1,4 @@
-# Get Me A Chai
+# Fund Spark
 
 [https://fund-me-chai.vercel.app](get-me-a-chai)
 
@@ -18,9 +18,6 @@ On the dashboard, developers or project creators can provide the project name, d
 - **Raise Funds for Multiple Projects**: Developers can create and manage multiple fundraising campaigns simultaneously, providing flexibility to fund various projects at the same time.
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
 
 ## Environment Variables
 
